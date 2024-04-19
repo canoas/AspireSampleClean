@@ -1,0 +1,170 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\DEV\\2024\\aspire-sample\\AspireSampleClean\\AspireSampleClean.ApiService\\AspireSampleClean.ApiService.csproj": {}
+  },
+  "projects": {
+    "C:\\DEV\\2024\\aspire-sample\\AspireSampleClean\\AspireSampleClean.ApiService\\AspireSampleClean.ApiService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\DEV\\2024\\aspire-sample\\AspireSampleClean\\AspireSampleClean.ApiService\\AspireSampleClean.ApiService.csproj",
+        "projectName": "AspireSampleClean.ApiService",
+        "projectPath": "C:\\DEV\\2024\\aspire-sample\\AspireSampleClean\\AspireSampleClean.ApiService\\AspireSampleClean.ApiService.csproj",
+        "packagesPath": "C:\\Users\\canoas.DEVSCOPE\\.nuget\\packages\\",
+        "outputPath": "C:\\DEV\\2024\\aspire-sample\\AspireSampleClean\\AspireSampleClean.ApiService\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\canoas.DEVSCOPE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\DEV\\2024\\aspire-sample\\AspireSampleClean\\AspireSampleClean.ServiceDefaults\\AspireSampleClean.ServiceDefaults.csproj": {
+                "projectPath": "C:\\DEV\\2024\\aspire-sample\\AspireSampleClean\\AspireSampleClean.ServiceDefaults\\AspireSampleClean.ServiceDefaults.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\DEV\\2024\\aspire-sample\\AspireSampleClean\\AspireSampleClean.ServiceDefaults\\AspireSampleClean.ServiceDefaults.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\DEV\\2024\\aspire-sample\\AspireSampleClean\\AspireSampleClean.ServiceDefaults\\AspireSampleClean.ServiceDefaults.csproj",
+        "projectName": "AspireSampleClean.ServiceDefaults",
+        "projectPath": "C:\\DEV\\2024\\aspire-sample\\AspireSampleClean\\AspireSampleClean.ServiceDefaults\\AspireSampleClean.ServiceDefaults.csproj",
+        "packagesPath": "C:\\Users\\canoas.DEVSCOPE\\.nuget\\packages\\",
+        "outputPath": "C:\\DEV\\2024\\aspire-sample\\AspireSampleClean\\AspireSampleClean.ServiceDefaults\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\canoas.DEVSCOPE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Http.Resilience": {
+              "target": "Package",
+              "version": "[8.3.0, )"
+            },
+            "Microsoft.Extensions.ServiceDiscovery": {
+              "target": "Package",
+              "version": "[8.0.0-preview.5.24201.12, )"
+            },
+            "OpenTelemetry.Exporter.OpenTelemetryProtocol": {
+              "target": "Package",
+              "version": "[1.7.0, )"
+            },
+            "OpenTelemetry.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[1.7.0, )"
+            },
+            "OpenTelemetry.Instrumentation.AspNetCore": {
+              "target": "Package",
+              "version": "[1.7.1, )"
+            },
+            "OpenTelemetry.Instrumentation.Http": {
+              "target": "Package",
+              "version": "[1.7.1, )"
+            },
+            "OpenTelemetry.Instrumentation.Runtime": {
+              "target": "Package",
+              "version": "[1.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
