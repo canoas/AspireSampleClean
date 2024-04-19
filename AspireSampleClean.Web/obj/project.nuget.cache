@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "eWm+MxyQ0B5IDh5b12LLwcdrVszneL48yGtOvWkOjQ0/+4aEi4kDYOTX8+pbUUeEuhAgTnA/+Ja0JIVVDsk6Rg==",
+  "dgSpecHash": "++wnFbE2X33bUE0f6c2I1TwCdXhRoV0AnhBHsflLBe7zbf0IMhSVYmwzRwkklsX+S3WZr46JqMVfyznJXTvdWg==",
   "success": true,
   "projectFilePath": "C:\\DEV\\2024\\aspire-sample\\AspireSampleClean\\AspireSampleClean.Web\\AspireSampleClean.Web.csproj",
   "expectedPackageFiles": [
@@ -46,6 +46,7 @@
     "C:\\Users\\canoas.DEVSCOPE\\.nuget\\packages\\microsoft.extensions.telemetry\\8.3.0\\microsoft.extensions.telemetry.8.3.0.nupkg.sha512",
     "C:\\Users\\canoas.DEVSCOPE\\.nuget\\packages\\microsoft.extensions.telemetry.abstractions\\8.3.0\\microsoft.extensions.telemetry.abstractions.8.3.0.nupkg.sha512",
     "C:\\Users\\canoas.DEVSCOPE\\.nuget\\packages\\microsoft.io.recyclablememorystream\\3.0.0\\microsoft.io.recyclablememorystream.3.0.0.nupkg.sha512",
+    "C:\\Users\\canoas.DEVSCOPE\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.4\\microsoft.net.illink.tasks.8.0.4.nupkg.sha512",
     "C:\\Users\\canoas.DEVSCOPE\\.nuget\\packages\\opentelemetry\\1.7.0\\opentelemetry.1.7.0.nupkg.sha512",
     "C:\\Users\\canoas.DEVSCOPE\\.nuget\\packages\\opentelemetry.api\\1.7.0\\opentelemetry.api.1.7.0.nupkg.sha512",
     "C:\\Users\\canoas.DEVSCOPE\\.nuget\\packages\\opentelemetry.api.providerbuilderextensions\\1.7.0\\opentelemetry.api.providerbuilderextensions.1.7.0.nupkg.sha512",
@@ -64,7 +65,10 @@
     "C:\\Users\\canoas.DEVSCOPE\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
     "C:\\Users\\canoas.DEVSCOPE\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
     "C:\\Users\\canoas.DEVSCOPE\\.nuget\\packages\\system.text.json\\8.0.3\\system.text.json.8.0.3.nupkg.sha512",
-    "C:\\Users\\canoas.DEVSCOPE\\.nuget\\packages\\system.threading.ratelimiting\\8.0.0\\system.threading.ratelimiting.8.0.0.nupkg.sha512"
+    "C:\\Users\\canoas.DEVSCOPE\\.nuget\\packages\\system.threading.ratelimiting\\8.0.0\\system.threading.ratelimiting.8.0.0.nupkg.sha512",
+    "C:\\Users\\canoas.DEVSCOPE\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\8.0.4\\microsoft.netcore.app.runtime.linux-x64.8.0.4.nupkg.sha512",
+    "C:\\Users\\canoas.DEVSCOPE\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\8.0.4\\microsoft.aspnetcore.app.runtime.linux-x64.8.0.4.nupkg.sha512",
+    "C:\\Users\\canoas.DEVSCOPE\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\8.0.4\\microsoft.netcore.app.host.linux-x64.8.0.4.nupkg.sha512"
   ],
   "logs": []
 }
